@@ -1,0 +1,12 @@
+name: rapidBCR_argon
+title: rapidBCR_argon
+username:
+account: remplan
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1104909
+bundleId: 2343741
+url: https://remplan.shinyapps.io/rapidBCR_argon/
+when: 1566447526.75415
+asMultiple: FALSE
+asStatic: FALSE

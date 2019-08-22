@@ -27,6 +27,8 @@
         
         width = 12,
         
+        # align = "center",
+        
         argonTabSet(
           id = "tab-1",
           card_wrapper = TRUE,
@@ -201,6 +203,7 @@
         shadow = FALSE,
         width = 4
       ),
+      
       argonInfoCard(
         title = "Estimated benefits",
         value = textOutput("value"),
@@ -213,6 +216,7 @@
         shadow = FALSE,
         width = 4
       ),
+      
       argonInfoCard(
         title = "Estimate rate of return",
         value = "3.5%",
@@ -222,7 +226,6 @@
         icon = "percent",
         icon_background = "info",
         hover_lift = FALSE,
-        shadow = FALSE,
         width = 4
       )
       
